@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PubNubHomeAutomation
 //
-//  Created by Eric Theis on 7/15/14.
+//  Created by Eric Theis on 7/14/14.
 //  Copyright (c) 2014 PubNub. All rights reserved.
 //
 
@@ -15,8 +15,23 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication!, didFinishLaunchingWithOptions launchOptions: NSDictionary!) -> Bool {
-        // Override point for customization after application launch.
+        
+        var storyboard = getStoryboard()
+        
+        self.window!.rootViewController = storyboard.instantiateInitialViewController() as UIViewController
+        self.window?.makeKeyAndVisible()
+        
         return true
+    }
+    
+    func getStoryboard() -> UIStoryboard {
+        var height = UIScreen.mainScreen().bounds.height
+        
+        if height == 480 {
+            return UIStoryboard(name: "Main-4sOld", bundle: nil)
+        } else {
+            return UIStoryboard(name: "Main", bundle: nil)
+        }
     }
 
     func applicationWillResignActive(application: UIApplication!) {

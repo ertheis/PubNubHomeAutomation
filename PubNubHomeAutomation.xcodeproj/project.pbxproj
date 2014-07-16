@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D2B48301975E40000EAE4DC /* InternetOfThingsHorizontalHomeAuto.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D2B482A1975E40000EAE4DC /* InternetOfThingsHorizontalHomeAuto.png */; };
+		3D2B48311975E40000EAE4DC /* PubNubDoorsRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D2B482B1975E40000EAE4DC /* PubNubDoorsRed.png */; };
+		3D2B48321975E40000EAE4DC /* PubNubHeatRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D2B482C1975E40000EAE4DC /* PubNubHeatRed.png */; };
+		3D2B48331975E40000EAE4DC /* PubNubLightsRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D2B482D1975E40000EAE4DC /* PubNubLightsRed.png */; };
+		3D2B48341975E40000EAE4DC /* PubNubMusicRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D2B482E1975E40000EAE4DC /* PubNubMusicRed.png */; };
+		3D2B48351975E40000EAE4DC /* PubNubPowerRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D2B482F1975E40000EAE4DC /* PubNubPowerRed.png */; };
+		3D2B48371975E49100EAE4DC /* DoorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2B48361975E49100EAE4DC /* DoorViewController.swift */; };
+		3D2B483C1975E4E200EAE4DC /* HeatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2B48381975E4E200EAE4DC /* HeatViewController.swift */; };
+		3D2B483D1975E4E200EAE4DC /* LightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2B48391975E4E200EAE4DC /* LightViewController.swift */; };
+		3D2B483E1975E4E200EAE4DC /* MusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2B483A1975E4E200EAE4DC /* MusicViewController.swift */; };
+		3D2B483F1975E4E200EAE4DC /* PowerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2B483B1975E4E200EAE4DC /* PowerViewController.swift */; };
+		3D2B48411975E6ED00EAE4DC /* NavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2B48401975E6ED00EAE4DC /* NavViewController.swift */; };
+		3D2B48471975F85F00EAE4DC /* Main-4sOld.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D2B48451975F85F00EAE4DC /* Main-4sOld.storyboard */; };
 		3DEF028A1975E397001DF955 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF02891975E397001DF955 /* AppDelegate.swift */; };
 		3DEF028C1975E397001DF955 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF028B1975E397001DF955 /* ViewController.swift */; };
 		3DEF028F1975E397001DF955 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DEF028D1975E397001DF955 /* Main.storyboard */; };
@@ -25,6 +38,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D2B482A1975E40000EAE4DC /* InternetOfThingsHorizontalHomeAuto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InternetOfThingsHorizontalHomeAuto.png; sourceTree = "<group>"; };
+		3D2B482B1975E40000EAE4DC /* PubNubDoorsRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PubNubDoorsRed.png; sourceTree = "<group>"; };
+		3D2B482C1975E40000EAE4DC /* PubNubHeatRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PubNubHeatRed.png; sourceTree = "<group>"; };
+		3D2B482D1975E40000EAE4DC /* PubNubLightsRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PubNubLightsRed.png; sourceTree = "<group>"; };
+		3D2B482E1975E40000EAE4DC /* PubNubMusicRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PubNubMusicRed.png; sourceTree = "<group>"; };
+		3D2B482F1975E40000EAE4DC /* PubNubPowerRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PubNubPowerRed.png; sourceTree = "<group>"; };
+		3D2B48361975E49100EAE4DC /* DoorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoorViewController.swift; sourceTree = "<group>"; };
+		3D2B48381975E4E200EAE4DC /* HeatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeatViewController.swift; sourceTree = "<group>"; };
+		3D2B48391975E4E200EAE4DC /* LightViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightViewController.swift; sourceTree = "<group>"; };
+		3D2B483A1975E4E200EAE4DC /* MusicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicViewController.swift; sourceTree = "<group>"; };
+		3D2B483B1975E4E200EAE4DC /* PowerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PowerViewController.swift; sourceTree = "<group>"; };
+		3D2B48401975E6ED00EAE4DC /* NavViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavViewController.swift; sourceTree = "<group>"; };
+		3D2B48461975F85F00EAE4DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "Base.lproj/Main-4sOld.storyboard"; sourceTree = "<group>"; };
 		3DEF02841975E397001DF955 /* PubNubHomeAutomation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PubNubHomeAutomation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DEF02881975E397001DF955 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3DEF02891975E397001DF955 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -77,7 +103,14 @@
 			children = (
 				3DEF02891975E397001DF955 /* AppDelegate.swift */,
 				3DEF028B1975E397001DF955 /* ViewController.swift */,
+				3D2B48381975E4E200EAE4DC /* HeatViewController.swift */,
+				3D2B48401975E6ED00EAE4DC /* NavViewController.swift */,
+				3D2B48391975E4E200EAE4DC /* LightViewController.swift */,
+				3D2B483A1975E4E200EAE4DC /* MusicViewController.swift */,
+				3D2B483B1975E4E200EAE4DC /* PowerViewController.swift */,
 				3DEF028D1975E397001DF955 /* Main.storyboard */,
+				3D2B48451975F85F00EAE4DC /* Main-4sOld.storyboard */,
+				3D2B48361975E49100EAE4DC /* DoorViewController.swift */,
 				3DEF02901975E397001DF955 /* Images.xcassets */,
 				3DEF02871975E397001DF955 /* Supporting Files */,
 			);
@@ -87,6 +120,12 @@
 		3DEF02871975E397001DF955 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3D2B482A1975E40000EAE4DC /* InternetOfThingsHorizontalHomeAuto.png */,
+				3D2B482B1975E40000EAE4DC /* PubNubDoorsRed.png */,
+				3D2B482C1975E40000EAE4DC /* PubNubHeatRed.png */,
+				3D2B482D1975E40000EAE4DC /* PubNubLightsRed.png */,
+				3D2B482E1975E40000EAE4DC /* PubNubMusicRed.png */,
+				3D2B482F1975E40000EAE4DC /* PubNubPowerRed.png */,
 				3DEF02881975E397001DF955 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -158,6 +197,7 @@
 				TargetAttributes = {
 					3DEF02831975E397001DF955 = {
 						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = Y9X42V6EK7;
 					};
 					3DEF02951975E397001DF955 = {
 						CreatedOnToolsVersion = 6.0;
@@ -190,7 +230,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DEF028F1975E397001DF955 /* Main.storyboard in Resources */,
+				3D2B48351975E40000EAE4DC /* PubNubPowerRed.png in Resources */,
+				3D2B48301975E40000EAE4DC /* InternetOfThingsHorizontalHomeAuto.png in Resources */,
 				3DEF02911975E397001DF955 /* Images.xcassets in Resources */,
+				3D2B48311975E40000EAE4DC /* PubNubDoorsRed.png in Resources */,
+				3D2B48331975E40000EAE4DC /* PubNubLightsRed.png in Resources */,
+				3D2B48341975E40000EAE4DC /* PubNubMusicRed.png in Resources */,
+				3D2B48471975F85F00EAE4DC /* Main-4sOld.storyboard in Resources */,
+				3D2B48321975E40000EAE4DC /* PubNubHeatRed.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -208,8 +255,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D2B483E1975E4E200EAE4DC /* MusicViewController.swift in Sources */,
+				3D2B483C1975E4E200EAE4DC /* HeatViewController.swift in Sources */,
 				3DEF028C1975E397001DF955 /* ViewController.swift in Sources */,
 				3DEF028A1975E397001DF955 /* AppDelegate.swift in Sources */,
+				3D2B48371975E49100EAE4DC /* DoorViewController.swift in Sources */,
+				3D2B483D1975E4E200EAE4DC /* LightViewController.swift in Sources */,
+				3D2B48411975E6ED00EAE4DC /* NavViewController.swift in Sources */,
+				3D2B483F1975E4E200EAE4DC /* PowerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +285,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		3D2B48451975F85F00EAE4DC /* Main-4sOld.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D2B48461975F85F00EAE4DC /* Base */,
+			);
+			name = "Main-4sOld.storyboard";
+			sourceTree = "<group>";
+		};
 		3DEF028D1975E397001DF955 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -325,7 +386,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = PubNubHomeAutomation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -336,7 +399,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = PubNubHomeAutomation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -395,6 +460,7 @@
 				3DEF02A21975E397001DF955 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3DEF02A31975E397001DF955 /* Build configuration list for PBXNativeTarget "PubNubHomeAutomationTests" */ = {
 			isa = XCConfigurationList;
@@ -403,6 +469,7 @@
 				3DEF02A51975E397001DF955 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
